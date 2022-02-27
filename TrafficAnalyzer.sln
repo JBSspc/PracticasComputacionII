@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TrafficAnalyzer", "TrafficAnalyzer\TrafficAnalyzer.pyproj", "{55B7D011-AF58-44D7-831F-7992ED272C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B7D011-AF58-44D7-831F-7992ED272C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B7D011-AF58-44D7-831F-7992ED272C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC694922-2AE8-47DE-ACB9-488985C3E1AC}
+	EndGlobalSection
+EndGlobal
